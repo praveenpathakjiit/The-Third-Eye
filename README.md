@@ -1,2 +1,2 @@
 # The-Third-Eye
-This project is to recognize the objects in a live video
+Recognition of objects in live video.The project is implemented in javascript which uses a pretrained mobilenet model for the object recognition task.
